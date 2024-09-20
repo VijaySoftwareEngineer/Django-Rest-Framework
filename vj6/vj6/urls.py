@@ -1,5 +1,5 @@
 """
-URL configuration for vj3 project.
+URL configuration for vj6 project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.1/topics/http/urls/
@@ -23,3 +23,4 @@ urlpatterns = [
     # for class based url are write like below
     # path('studentapi/', views.student_api.as_view()),
 ]
+
